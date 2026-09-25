@@ -1,0 +1,6 @@
+{
+  "name": "College Management System",
+  "description": "A comprehensive college management system featuring student records, fee payment portal with multiple gateway options, academic attendance, receipts, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
